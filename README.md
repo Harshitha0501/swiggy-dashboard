@@ -4,9 +4,14 @@
 
 An interactive data analytics dashboard built with **React, JavaScript, and Chart.js** to explore restaurant locations, cuisines, ratings, and pricing patterns from the Swiggy restaurant dataset.
 
+## 📸 Dashboard Preview
+
+![Swiggy Dashboard Preview](./public/images/dashboard-overview.png)
+
 ## 📊 Live Demo
 
 🚀 [View Live Dashboard](https://swiggy-dashboard-sooty.vercel.app/)
+
 
 ## 🔗 Related SQL Analysis
 
