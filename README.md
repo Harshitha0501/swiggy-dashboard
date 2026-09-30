@@ -1,5 +1,7 @@
 # 🍽️ Swiggy Restaurant Analytics Dashboard
 
+![Swiggy Restaurant Analytics Dashboard](./public/images/swiggy-dashboard-banner.png)
+
 An interactive data analytics dashboard built with **React, JavaScript, and Chart.js** to explore restaurant locations, cuisines, ratings, and pricing patterns from the Swiggy restaurant dataset.
 
 ## 📊 Live Demo
