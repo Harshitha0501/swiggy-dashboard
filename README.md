@@ -4,7 +4,7 @@ An interactive data analytics dashboard built with **React, JavaScript, and Char
 
 ## 📊 Live Demo
 
-🚀 Live Demo: Coming soon
+🚀 [View Live Dashboard](https://swiggy-dashboard-sooty.vercel.app/)
 
 ## 🔗 Related SQL Analysis
 
