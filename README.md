@@ -125,34 +125,62 @@ The dashboard generates:
 
 ```text
 swiggy-analysis-report.txt
+```
 
 The report contains:
 
-Dataset information
-Total records
-Top location
-Top cuisine
-Average rating
-Rating distribution
-₹500+ cost group average rating
-Highest recorded cost
-Top locations
-Top cuisines
-🚀 Run Locally
-1. Clone the repository
+- Dataset information
+- Total records
+- Top location
+- Top cuisine
+- Average rating
+- Rating distribution
+- ₹500+ cost group average rating
+- Highest recorded cost
+- Top locations
+- Top cuisines
+
+---
+
+## 🚀 Run Locally
+
+### 1. Clone the repository
+
+```bash
 git clone https://github.com/Harshitha0501/swiggy-dashboard.git
-2. Open the project
+```
+
+### 2. Open the project
+
+```bash
 cd swiggy-dashboard
-3. Install dependencies
+```
+
+### 3. Install dependencies
+
+```bash
 npm install
-4. Start the development server
+```
+
+### 4. Start the development server
+
+```bash
 npm run dev
-5. Open the application
+```
+
+### 5. Open the application
 
 Vite will provide a local URL similar to:
 
+```text
 http://localhost:5173/
-📈 Project Workflow
+```
+
+---
+
+## 📈 Project Workflow
+
+```text
 Swiggy Dataset
       ↓
 MySQL Data Cleaning
@@ -166,25 +194,32 @@ React Dashboard
 Interactive Visualizations
       ↓
 Analytics Report
-🔍 Related Project
-Swiggy SQL Analysis
+```
+
+---
+
+## 🔍 Related Project
+
+### Swiggy SQL Analysis
 
 MySQL-based analysis of the Swiggy restaurant dataset covering:
 
-Restaurant locations
-Cuisine trends
-Rating distribution
-Pricing patterns
-Cost vs rating analysis
-Data quality investigation
+- Restaurant locations
+- Cuisine trends
+- Rating distribution
+- Pricing patterns
+- Cost vs rating analysis
+- Data quality investigation
 
 👉 https://github.com/Harshitha0501/Swiggy-SQL-Analysis
 
-👩‍💻 Author
+---
 
-Harshitha C.
+## 👩‍💻 Author
+
+**Harshitha C.**
 
 Software Developer | Aspiring Data Analyst
 
-GitHub: https://github.com/Harshitha0501
-LinkedIn: https://www.linkedin.com/in/harshitha-c2605/
+- GitHub: https://github.com/Harshitha0501
+- LinkedIn: https://www.linkedin.com/in/harshitha-c2605/
